@@ -132,3 +132,12 @@ D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_S
 D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_.82A80FBE.Up2Date
 D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.dll
 D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Github Sahaj\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Github Sahaj\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Github Sahaj\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Github Sahaj\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Github Sahaj\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.AssemblyReference.cache
+D:\Github Sahaj\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+D:\Github Sahaj\COALBPS_Service\obj\Debug\COALBPS_.82A80FBE.Up2Date
+D:\Github Sahaj\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Github Sahaj\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
