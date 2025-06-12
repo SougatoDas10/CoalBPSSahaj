@@ -1,0 +1,134 @@
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Souvik\Code\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Souvik\Code\SERVICE\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Suman Sahoo\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Sayantan Majumder\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Souvik\Code\SERVICE\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Arghya\172.16.1.179\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Arghya\172.16.1.179\COALBPS_Service_Latest\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Arghya\172.16.1.179\COALBPS_Service_Latest\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Arghya\172.16.1.179\COALBPS_Service_Latest\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Arghya\172.16.1.179\COALBPS_Service_Latest\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Arghya\172.16.1.179\COALBPS_Service_Latest\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Arghya\172.16.1.179\COALBPS_Service_Latest\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CopyComplete
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+C:\Users\debdut.jana\Desktop\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojAssemblyReference.cache
+C:\Users\Rajdeep\Desktop\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+C:\Users\Rajdeep\Desktop\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+C:\Users\Rajdeep\Desktop\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+C:\Users\Rajdeep\Desktop\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+C:\Users\Rajdeep\Desktop\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+C:\Users\Rajdeep\Desktop\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+C:\Users\Rajdeep\Desktop\Srijan\CoalBPS_DB-------COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service_2017-07-12\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojAssemblyReference.cache
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CopyComplete
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+E:\SRIJAN\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csprojResolveAssemblyReference.cache
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\SRIJAN\SRIJAN_ORGINAL\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Arghya\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Arghya\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Arghya\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Arghya\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Arghya\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+D:\Arghya\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CopyComplete
+D:\Arghya\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Arghya\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CopyComplete
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Arghya\Essential project and Doc\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.AssemblyReference.cache
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CopyComplete
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Essential Project details\COALBPS_Service\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\bin\COALBPS_Service.dll
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.AssemblyReference.cache
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CopyComplete
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\mJuction\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.pdb
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\bin\COALBPS_Service.dll.config
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\bin\COALBPS_Service.dll
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\bin\COALBPS_Service.pdb
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\bin\Newtonsoft.Json.dll
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.AssemblyReference.cache
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.csproj.CoreCompileInputs.cache
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_.82A80FBE.Up2Date
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.dll
+D:\Sougato Das\Mjunction\Project 10-12-2024\COALBPS_Service-06-07-2022\COALBPS_Service\obj\Debug\COALBPS_Service.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Mjunction\PubishedFiles</_PublishTargetUrl>
+    <History>True|2024-02-26T07:09:34.0058387Z;True|2024-01-17T15:03:39.1422716+05:30;True|2024-01-17T14:14:20.0091862+05:30;True|2024-01-16T11:30:09.3719272+05:30;True|2024-01-11T12:33:58.6510867+05:30;True|2024-01-11T11:44:43.1022087+05:30;True|2024-01-05T17:24:02.1535067+05:30;True|2024-01-02T18:12:54.3640003+05:30;True|2024-01-02T18:00:46.8727404+05:30;True|2024-01-02T11:26:20.6733581+05:30;True|2023-12-30T15:31:30.6867227+05:30;True|2023-12-29T16:27:12.2429777+05:30;True|2023-12-29T12:30:11.8487870+05:30;True|2023-12-28T15:26:51.2766589+05:30;True|2023-12-26T16:59:01.8972268+05:30;True|2023-12-26T16:56:44.9302801+05:30;False|2021-04-30T16:05:18.0779220+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/COALBPS_Service.dll">
+      <publishTime>02/26/2024 12:39:33</publishTime>
+    </File>
+    <File Include="bin/COALBPS_Service.pdb">
+      <publishTime>02/26/2024 12:39:33</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="mailtemp.htm">
+      <publishTime>04/05/2017 16:54:41</publishTime>
+    </File>
+    <File Include="ServiceCOALBPS.svc">
+      <publishTime>10/27/2016 15:42:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/26/2023 16:56:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

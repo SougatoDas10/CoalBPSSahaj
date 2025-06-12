@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Arghya\Essential project and Doc\COALBPS_Service\PreCompile</_PublishTargetUrl>
+    <History>True|2022-05-17T08:54:36.0015015Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/COALBPS_Service.dll">
+      <publishTime>05/17/2022 14:24:34</publishTime>
+    </File>
+    <File Include="bin/COALBPS_Service.pdb">
+      <publishTime>05/17/2022 14:24:34</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 14:22:24</publishTime>
+    </File>
+    <File Include="mailtemp.htm">
+      <publishTime>04/05/2017 16:54:41</publishTime>
+    </File>
+    <File Include="ServiceCOALBPS.svc">
+      <publishTime>10/27/2016 15:42:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/17/2022 14:24:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
